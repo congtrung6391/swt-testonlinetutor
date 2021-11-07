@@ -6,4 +6,4 @@ This is a school assignment. In this one, you will find some testcases testing a
 ## How to run?
 1. Install [Katalon Studio](https://www.katalon.com/solution-selection/) to run these testcases.
 2. You will find a testcase named "CheckToggleCourseFromPublicToUnpublic" inside "Test Cases" session.
-3. Run the tescase
+3. Run the tescase.
